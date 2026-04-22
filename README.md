@@ -4,7 +4,7 @@
 </p>
 
 Hello my name is **Hafiyan Fazagi Adnanto**.\
-I am a Fresh Graduate in Informatics Engineering from UPN "Veteran" East Java.\
+I am a Fresh Graduate in Informatics Engineering from UPN "Veteran" Jawa Timur.\
 I am also a graduate of the Cloud Computing program at Bangkit Academy 2023.\
 I have experience as a web developer, especially in Front-end role.\
 If you are interested in getting to know me, please follow my [LinkedIn](https://www.linkedin.com/in/hafiyanfazagi/).
